@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I am Patrick 👋
 
 <!--
 **patrick330602/patrick330602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 BEng on Computer Science @ HKUST, Master on Computer Science @ CUHK starting this fall
+- 🔭 Developing Ubuntu for WSL and Ubuntu for Hyper-V and doing some cool stuffs 🤩
+- 💬 官話/吳語/粵語/English/Esperanto/日本語/Français
