@@ -8,8 +8,6 @@
 
 💬 官話/吳語/粵語/English/Esperanto/日本語/Français
 
-![Free Software Fundation Member](https://static.fsf.org/nosvn/associate/crm/5041715.png)
-
 </div>
 
 
